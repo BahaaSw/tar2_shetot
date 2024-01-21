@@ -8,7 +8,7 @@ public class SharedData
 {
 	/**
 	 * shared data class is the class the all the threads work with
-	 * to recive data about the array 
+	 * to receive data about the array 
 	 */
 	private ArrayList<Integer> array = new ArrayList<>();
 	private boolean [] winArray;
