@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//a
+
 public class SharedData 
 {
 	private ArrayList<Integer> array = new ArrayList<>();
